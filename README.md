@@ -1,2 +1,3 @@
-# PIRATE-INVASION-DEBUG-1
-CODING CHALLENGE 1
+# PiratesInvasionStage-6
+
+adding animations
